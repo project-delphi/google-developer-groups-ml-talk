@@ -1,3 +1,3 @@
-# google_developer_groups_ML_talk
+# GDG ML Talk
 
-Slides from Google Developer Groups Talk introducing Machine Learning
+Slides from Google Developer Groups Talk introducing Machine Learning.
