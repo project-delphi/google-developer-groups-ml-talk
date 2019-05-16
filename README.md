@@ -5,6 +5,10 @@ Slides from Google Developer Groups Talk introducing Machine Learning.
 
 Heavily modified from original slides from Pedro Domingos.
 
+
+Below is a link to the facebook livecast. My talk start at around 12 mins.
+![Facebook Live Link](https://www.facebook.com/GDGIPN/videos/vb.139496086201859/2096982383932582/?type=2&theater)
+
 ## Outline
 
 * What is ML
