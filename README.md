@@ -1,7 +1,7 @@
 ![](gdg_logo.jpeg)
 # Google Developers Group  Machine Learning Talk
 
-Slides from Google Developer Groups Talk introducing Machine Learning. 
+Slides from Google Developer Groups (Mexico City) Talk  introducing Machine Learning. 
 
 Heavily modified from original slides from Pedro Domingos.
 
