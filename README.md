@@ -12,8 +12,18 @@ Below is a link to the facebook livecast. My talk start at around 12 mins.
 ## Outline
 
 * What is ML
-* Five major areas: Supervised Learning, Unsupervised Learning, Data Reduction, Clustering and Reinforcement Learning
-* Different Churches of ML
+* Five major areas: 
+    * Supervised Learning
+    * Unsupervised Learning
+    * Data Reduction
+    * Clustering
+    * Reinforcement Learning
+* Different Tribes of ML Researchers/Practioners
+    * Bayesians
+    * Connectionists
+    * Symbolists
+    * Analogizers
+    * Evolutionaries
 * Underlying Technologies
 * Examples with various Technologies
 * Outlook for the Future
